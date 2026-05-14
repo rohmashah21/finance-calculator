@@ -124,10 +124,7 @@ Contributing
 Contributions, issues, and feature requests are welcome!
 
 👤 Author
-Rohma Shah
-GitHub: @rohmashah21
-
-Show Your Support
-Give a ⭐️ if this project helped you with your financial analysis!
+**Rohma Shah**
+- GitHub: [@rohmashah21](https://github.com/rohmashah21)
 
 Disclaimer: This tool is for educational purposes. Always consult with a financial professional before making investment decisions.
